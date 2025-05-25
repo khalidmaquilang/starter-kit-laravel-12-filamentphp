@@ -3,10 +3,6 @@
 - Node: 22
 - TailwindCSS 4
 
-## Setup on local
-
-- Copy .env file
-
 ## Setup on local using sail
 
 - Install Docker https://laravel.com/docs/11.x/installation#docker-installation-using-sail or https://laravel.com/docs/12.x/installation#docker-installation-using-sail
