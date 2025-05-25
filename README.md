@@ -1,7 +1,7 @@
-## Requirements
-
+# Laravel 12 with FilamentPhp 3 starter pack
 - php: 8.4
 - Node: 22
+- TailwindCSS 4
 
 ## Setup on local
 
